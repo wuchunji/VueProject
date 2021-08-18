@@ -1,0 +1,2 @@
+# VueProject
+用vue和elementUI开发的一款店铺管理系统
